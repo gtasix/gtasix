@@ -6,4 +6,4 @@
 
 📫 Telegram: [@enjoykinfake](https://t.me/enjoykinfake) · Email: steybakuq@gmail.com
 
-#Here are some ideas to get you started:
+# Here are some ideas to get you started:
