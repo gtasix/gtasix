@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I'm Timofey Molodkin ✨✨✨✨🔥🔥🔥🔥🚧🚧💀💀💀🤫🤫🤫🤫🤫🤫🤫
+## I'm Timofey Molodkin
 
 3rd-year Big Data student at Moscow Polytechnic University.
 **I'm into** **_product analytics_**: SQL 🔥, ✨A/B testing✨, 👀metrics👀 and 💅dashboards💅. Next step is ML.
